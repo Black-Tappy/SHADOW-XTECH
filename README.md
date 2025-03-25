@@ -1,5 +1,5 @@
 
-#        𝐒𝐇𝐀𝐃𝐎𝐖-𝐗𝐌𝐃 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
+#        𝐒𝐇𝐀𝐃𝐎𝐖 𝐗𝐓𝐄𝐂𝐇 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
 
    <a>
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
@@ -13,7 +13,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+Shadow+XTECH__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+🅑r̸𝐢𝖌𝖍t̸+_MD+TECHS;RELEASED+DATE+25%2F7%3F2025."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-SHADOW-XTECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-SHADOW_XTECH-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
@@ -85,7 +85,7 @@
     </a>
 </p>
 
-## 𝐒𝐇𝐀𝐃𝐎𝐖-𝐗𝐌𝐃 SUPPORT 
+## 𝐒𝐇𝐀𝐃𝐎𝐖 𝐗𝐓𝐄𝐂𝐇 SUPPORT 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=SHADOW-XTECH +MAKE; STAR ⭐+AND+FORKS+BY+SHADOW-XTECH" alt="Typing SVG" /></a>
 
