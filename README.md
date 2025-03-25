@@ -87,7 +87,7 @@
 
 ## 𝐒𝐇𝐀𝐃𝐎𝐖-𝐗𝐌𝐃 SUPPORT 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=SHADOW-XTECH +MAKE; STAR ⭐+AND+FORKS+BY+Redmi-XMD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=SHADOW-XTECH +MAKE; STAR ⭐+AND+FORKS+BY+SHADOW-XTECH" alt="Typing SVG" /></a>
 
 
 
