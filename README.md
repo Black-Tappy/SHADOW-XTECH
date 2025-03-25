@@ -1,5 +1,5 @@
 
-#        𝐒𝐇𝐀𝐃𝐎𝐖 𝐗𝐓𝐄𝐂𝐇 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
+#        𝐒𝐇𝐀𝐃𝐎𝐖 𝐗𝐓𝐄𝐂𝐇 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
 
    <a>
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
