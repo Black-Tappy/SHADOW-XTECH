@@ -10,7 +10,7 @@ import {
   useMultiFileAuthState,
 } from '@whiskeysockets/baileys';
 
-import { Handler, Callupdate, GroupUpdate } from './scs/nitrox/index.js';
+import { Handler, Callupdate, GroupUpdate } from './scs/event/index.js';
 import express from 'express';
 import pino from 'pino';
 import fs from 'fs';
@@ -33,7 +33,7 @@ const lime = chalk.bold.hex("#32CD32");
 let useQR = false;
 let initialConnection = true;
 const PORT = process.env.PORT || 3000;
-const whatsappChannelLink = 'https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31';
+const whatsappChannelLink = 'https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10';
 const whatsappChannelId = '0029VajweHxKQuJP6qnjLM31@newsletter'; // Ensure this is the correct format
 
 const MAIN_LOGGER = pino({
